@@ -5,7 +5,7 @@ const drop_menu = document.querySelector('.drop-menu nav')
 
 menuBtn.addEventListener('click', function() {
   if(drop_menu.style.height == '0px' || drop_menu.style.height == '') {
-    drop_menu.style.height = '300px'
+    drop_menu.style.height = '350px'
   } else {
     drop_menu.style.height = '0px'
   }

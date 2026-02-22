@@ -676,6 +676,7 @@ body[mood='dark'] main .contact .contact-info {
 
   main .contact {
     flex-direction: column;
+    align-items: center;
     height: unset;
     margin: 10px;
   }
